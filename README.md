@@ -1,2 +1,0 @@
-# apperia
-projeto acessibilidade
